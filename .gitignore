@@ -51,9 +51,7 @@ npm-debug.log*
 /backup
 /.project
 /.loadpath
-/app/assets/javascripts/bundles/*.*
-/app/assets/javascripts/editor/*
-/app/assets/javascripts/locales/*.*
+
 /config/additional_environment.rb
 /config/configuration.yml
 /config/database.yml
@@ -69,8 +67,6 @@ npm-debug.log*
 /log/mongrel_debug
 /public/dispatch.*
 /public/plugin_assets
-/public/assets
-/public/javascripts
 /tmp/*
 /tmp/cache/*
 /tmp/sessions/*
